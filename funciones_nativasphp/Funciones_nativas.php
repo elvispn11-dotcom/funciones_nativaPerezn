@@ -51,3 +51,4 @@ ceil(); // redondear un número hacia arriba
 floor(); // redondear un número hacia abajo
 abs(); // obtener el valor absoluto de un número
 date(); // obtener la fecha y hora actual
+time(); // obtener la marca de tiempo actual
