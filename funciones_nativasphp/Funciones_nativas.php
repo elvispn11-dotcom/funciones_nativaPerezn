@@ -12,4 +12,5 @@ array_merge(); // fusionar arreglos
 array_keys(); // obtener las claves de un arreglo
 array_values(); // obtener los valores de un arreglo
 array_push(); // agregar elementos al final de un arreglo
-array_pop(); // eliminar el último elemento de un arreglo
+array_pop(); // eliminar el último elemento de un arreglo\
+array_shift(); // eliminar el primer elemento de un arreglo
