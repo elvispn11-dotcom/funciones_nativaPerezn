@@ -56,3 +56,4 @@ strtotime(); // convertir una cadena de fecha y hora a una marca de tiempo
 
 
 //Sistemas de archivos y JSON
+file_exists(); // verificar si un archivo o directorio existe
