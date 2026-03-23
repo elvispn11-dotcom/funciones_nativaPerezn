@@ -34,3 +34,5 @@ htmlspecialchars(); // convertir caracteres especiales a entidades HTML
 ucfirst(); // convertir el primer carácter de una cadena a mayúscula
 
 //manejo de variables y tipos
+// para validar datos antes de procesarlos
+isset(); // verificar si una variable está definida
