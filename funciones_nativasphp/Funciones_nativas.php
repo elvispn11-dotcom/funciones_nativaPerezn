@@ -64,3 +64,4 @@ json_encode(); // convertir una variable de PHP a una cadena JSON
 
 //control de salida y HTTP
 header(); // enviar encabezados HTTP
+die(); // terminar la ejecución del script
