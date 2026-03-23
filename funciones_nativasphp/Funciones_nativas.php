@@ -25,3 +25,4 @@ rsort(); // ordenar un arreglo en orden inverso
 strlen(); // obtener la longitud de una cadena
 str_replace(); // reemplazar texto dentro de una cadena
 strpos(); // encontrar la posición de la primera aparición de una subcadena
+substr(); // obtener una parte de una cadena
