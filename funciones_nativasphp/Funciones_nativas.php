@@ -61,3 +61,6 @@ file_get_contents(); // leer el contenido de un archivo
 unlink(); // eliminar un archivo
 json_decode(); // convertir una cadena JSON a una variable de PHP
 json_encode(); // convertir una variable de PHP a una cadena JSON
+
+//control de salida y HTTP
+header(); // enviar encabezados HTTP
