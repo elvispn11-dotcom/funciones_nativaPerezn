@@ -33,3 +33,4 @@ sprintf(); // dar formato a una cadena
 htmlspecialchars(); // convertir caracteres especiales a entidades HTML
 ucfirst(); // convertir el primer carácter de una cadena a mayúscula
 
+//manejo de variables y tipos
