@@ -20,3 +20,5 @@ array_map(); // aplicar una función a cada elemento de un arreglo
 array_filter(); // filtrar elementos de un arreglo usando una función de devolución de llamada
 sort(); // ordenar un arreglo
 rsort(); // ordenar un arreglo en orden inverso
+
+//manipulacion de cadenas
