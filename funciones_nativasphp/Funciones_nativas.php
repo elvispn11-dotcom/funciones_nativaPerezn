@@ -31,3 +31,5 @@ trim(); // eliminar espacios en blanco al inicio y al final de una cadena
 explode(); // dividir una cadena en un arreglo
 sprintf(); // dar formato a una cadena
 htmlspecialchars(); // convertir caracteres especiales a entidades HTML
+ucfirst(); // convertir el primer carácter de una cadena a mayúscula
+
