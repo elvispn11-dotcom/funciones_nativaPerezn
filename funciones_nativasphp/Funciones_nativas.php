@@ -40,3 +40,4 @@ empty(); // verificar si una variable está vacía
 gettype(); // obtener el tipo de una variable
 settype(); // establecer el tipo de una variable
 var_dump(); // mostrar información sobre una variable
+print_r(); // imprimir información legible sobre una variable
