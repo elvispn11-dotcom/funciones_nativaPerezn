@@ -23,3 +23,4 @@ rsort(); // ordenar un arreglo en orden inverso
 
 //manipulacion de cadenas
 strlen(); // obtener la longitud de una cadena
+str_replace(); // reemplazar texto dentro de una cadena
