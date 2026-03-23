@@ -59,3 +59,5 @@ strtotime(); // convertir una cadena de fecha y hora a una marca de tiempo
 file_exists(); // verificar si un archivo o directorio existe
 file_get_contents(); // leer el contenido de un archivo
 unlink(); // eliminar un archivo
+json_decode(); // convertir una cadena JSON a una variable de PHP
+json_encode(); // convertir una variable de PHP a una cadena JSON
