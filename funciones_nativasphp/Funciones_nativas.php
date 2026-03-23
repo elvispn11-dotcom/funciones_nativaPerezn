@@ -17,3 +17,4 @@ array_shift(); // eliminar el primer elemento de un arreglo
 in_array(); // verificar si un valor existe en un arreglo
 array_key_exists(); // verificar si una clave existe en un arreglo
 array_map(); // aplicar una función a cada elemento de un arreglo
+array_filter(); // filtrar elementos de un arreglo usando una función de devolución de llamada
