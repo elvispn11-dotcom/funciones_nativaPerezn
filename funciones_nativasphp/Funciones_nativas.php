@@ -42,3 +42,4 @@ settype(); // establecer el tipo de una variable
 var_dump(); // mostrar información sobre una variable
 print_r(); // imprimir información legible sobre una variable
 serialize(); // convertir una variable a una cadena para almacenamiento o transmisión
+unserialize(); // convertir una cadena serializada de nuevo a una variables
