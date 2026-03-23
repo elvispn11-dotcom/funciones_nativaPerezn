@@ -7,3 +7,6 @@
 
 // manipulacion de arreglos son el corazon de php
 count(); // contar elementos de un arreglo
+is_array(); // verificar si es un arreglo
+array_merge(); // fusionar arreglos
+array_keys(); // obtener las claves de un arreglo
