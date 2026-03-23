@@ -46,3 +46,5 @@ unserialize(); // convertir una cadena serializada de nuevo a una variables
 
 //Funciones matematicas\
 rand(); // generar un número aleatorio
+round(); // redondear un número
+ceil(); // redondear un número hacia arriba
