@@ -28,3 +28,6 @@ strpos(); // encontrar la posición de la primera aparición de una subcadena
 substr(); // obtener una parte de una cadena
 strtolower(); // convertir una cadena a minúsculas
 trim(); // eliminar espacios en blanco al inicio y al final de una cadena
+explode(); // dividir una cadena en un arreglo
+sprintf(); // dar formato a una cadena
+htmlspecialchars(); // convertir caracteres especiales a entidades HTML
