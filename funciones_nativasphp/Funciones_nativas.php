@@ -52,3 +52,4 @@ floor(); // redondear un número hacia abajo
 abs(); // obtener el valor absoluto de un número
 date(); // obtener la fecha y hora actual
 time(); // obtener la marca de tiempo actual
+strtotime(); // convertir una cadena de fecha y hora a una marca de tiempo
