@@ -69,3 +69,5 @@ exit(); // terminar la ejecución del script
 defined(); // verificar si una constante está definida
 function_exists(); // verificar si una función está definida
 password_hash(); // crear un hash de contraseña
+
+?>
