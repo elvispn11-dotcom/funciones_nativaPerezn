@@ -37,3 +37,4 @@ ucfirst(); // convertir el primer carácter de una cadena a mayúscula
 // para validar datos antes de procesarlos
 isset(); // verificar si una variable está definida
 empty(); // verificar si una variable está vacía
+gettype(); // obtener el tipo de una variable
