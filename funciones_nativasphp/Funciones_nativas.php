@@ -66,3 +66,4 @@ json_encode(); // convertir una variable de PHP a una cadena JSON
 header(); // enviar encabezados HTTP
 die(); // terminar la ejecución del script
 exit(); // terminar la ejecución del script
+defined(); // verificar si una constante está definida
