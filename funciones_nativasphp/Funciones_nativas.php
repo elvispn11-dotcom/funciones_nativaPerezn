@@ -35,7 +35,7 @@ ucfirst(); // convertir el primer carácter de una cadena a mayúscula
 
 //manejo de variables y tipos
 // para validar datos antes de procesarlos
-isset(); // verificar si una variable está definida
+isset();  // verificar si una variable está definida
 empty(); // verificar si una variable está vacía
 gettype(); // obtener el tipo de una variable
 settype(); // establecer el tipo de una variable
@@ -63,8 +63,8 @@ json_decode(); // convertir una cadena JSON a una variable de PHP
 json_encode(); // convertir una variable de PHP a una cadena JSON
 
 //control de salida y HTTP
-header(); // enviar encabezados HTTP
-die(); // terminar la ejecución del script
+header();  // enviar encabezados HTTP
+die();  // terminar la ejecución del script
 exit(); // terminar la ejecución del script
 defined(); // verificar si una constante está definida
 function_exists(); // verificar si una función está definida
