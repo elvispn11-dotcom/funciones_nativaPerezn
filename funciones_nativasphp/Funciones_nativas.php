@@ -27,3 +27,4 @@ str_replace(); // reemplazar texto dentro de una cadena
 strpos(); // encontrar la posición de la primera aparición de una subcadena
 substr(); // obtener una parte de una cadena
 strtolower(); // convertir una cadena a minúsculas
+trim(); // eliminar espacios en blanco al inicio y al final de una cadena
