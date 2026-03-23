@@ -49,3 +49,4 @@ rand(); // generar un número aleatorio
 round(); // redondear un número
 ceil(); // redondear un número hacia arriba
 floor(); // redondear un número hacia abajo
+abs(); // obtener el valor absoluto de un número
