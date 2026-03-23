@@ -22,3 +22,4 @@ sort(); // ordenar un arreglo
 rsort(); // ordenar un arreglo en orden inverso
 
 //manipulacion de cadenas
+strlen(); // obtener la longitud de una cadena
